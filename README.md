@@ -69,8 +69,6 @@ I want to continue improving my knowledge in Flexbox and learn more about CSS Gr
 - Frontend Mentor - [@erickcerna](https://www.frontendmentor.io/profile/erickcerna)
 - Twitter - [@tavo_rasta](https://www.twitter.com/tavo_rasta)
 
-## Acknowledgments
 
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
 
 
